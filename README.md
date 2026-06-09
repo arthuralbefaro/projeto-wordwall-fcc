@@ -182,6 +182,7 @@ Essa classificação é apenas uma sugestão pedagógica e pode ser adaptada pel
 | Arthur Nascimento Albefaro Penna (Gerente) | Gerente do projeto, organização do PDF final, padronização ABNT e apoio à apostila pedagógica |
 | Gabriel Fanti Carneiro                     | Descrição matemática da Geometria Plana, importância do conteúdo e apoio às questões          |
 | João Pedro Gonçalves Calmon                | Gravação da videoaula/tutorial e orientação audiovisual                                       |
+| Kevin Suave                                | Desenvolvimento do jogo no WordWall                                                           |
 | Marcelo Luiz Raasch Marques                | Descrição do projeto, avaliação geral, revisão final e fechamento do PDF                      |
 | Pietro Sipolatti Dalmaschio                | Objetivos, metodologia, estrutura pedagógica e revisão da proposta didática                   |
 
